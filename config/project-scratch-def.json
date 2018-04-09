@@ -1,0 +1,7 @@
+{
+    "orgName": "nathanvass@ibm.com Company",
+    "edition": "Developer",
+    "orgPreferences" : {
+        "enabled": ["S1DesktopEnabled"]
+    }
+}
